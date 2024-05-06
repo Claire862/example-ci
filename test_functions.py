@@ -15,7 +15,6 @@ def test_multiply():
     assert multiply(1, 6) == 6
     assert multiply(2, 6) == 12
 
-
 # uncomment the following test in step 11
 def test_convert_fahrenheit_to_celsius():
     assert f2c(32) == 0
